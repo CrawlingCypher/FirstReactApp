@@ -6,6 +6,6 @@ I have made a Task app that will let you see all the tasks you have as a list an
 
 Taking the basics of my HTML, CSS and javascript I wanted to be able to start learning a frontend framework.
 
-With this project I was able to learn the fudementals of react and use of component for reusability. That is shown with seperate tasks I have made. Each task in inside a bigger component called Tasks. 
+With this project I was able to learn the fudementals of react and use of component for reusability. That is shown with seperate tasks I have made. Each task is inside a bigger component called Tasks. 
 I understand how to use destructuring to pass in props.
 I have used a range of hooks such as useStateand use Effect.
