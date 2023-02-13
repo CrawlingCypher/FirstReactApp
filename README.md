@@ -9,5 +9,4 @@ Taking the basics of my HTML, CSS and javascript I wanted to be able to start le
 With this project I was able to learn the fudementals of react and use of component for reusability. That is shown with the seperate tasks I have made. Each task is inside a bigger component called Tasks. 
 I understand how to use destructuring to pass in props.
 I have used a range of hooks such as useState useEffect.
-
-
+At the same time I'm using this project to learn how to use git and github. I have learnt how to pull, add, commit and push  this project into my github repository 
